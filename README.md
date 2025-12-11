@@ -1,7 +1,7 @@
 # Modern E-Commerce Frontend (SPA) 🛍️
 
 
-A responsive Single Page Application (SPA) built with **React**. This project represents the **"Head"** (Frontend) of a decoupled e-commerce architecture, designed to interact with RESTful APIs to display products and manage shopping cart state.
+A responsive Single Page Application (SPA) built with **React**. This project represents the **"Head"** (Frontend) of a decoupled e-commerce architecture, frontend focused demo with RESTful APIs to display products and manage shopping cart state.
 
 👉 **Live Demo:** [Click here to view the app](https://ecommerce-m9os.onrender.com/)
 
@@ -78,3 +78,4 @@ To run this project locally:
     ```bash
     npm run bild
     ```
+
